@@ -1,0 +1,1 @@
+=IF(F2=1,"low",(IF(F2=2,"medium",IF(F2=3,"high","not availabele"))))
